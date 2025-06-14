@@ -1,6 +1,7 @@
 {
   "name": "aiviosell-dev",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "lint": "eslint . --ext .ts,.js",
     "test": "jest",
