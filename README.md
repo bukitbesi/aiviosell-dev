@@ -2,6 +2,12 @@
 
 AI-powered tools for Shopee sellers.
 
+Before running any of the scripts below, install dependencies with:
+
+```bash
+npm install
+```
+
 ## Development Scripts
 
 - `npm run lint` - Run ESLint on all TypeScript and JavaScript files.
