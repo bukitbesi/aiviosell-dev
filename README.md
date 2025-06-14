@@ -1,7 +1,7 @@
 # AivioSell Chrome Extension
 
 ## Project Overview
-AivioSell is a Chrome extension that provides AI‑powered tools for Shopee sellers. The extension is written in TypeScript and offers several modules to help automate tasks and improve store performance.
+AivioSell is a Chrome extension that provides AI-powered tools for Shopee sellers. The extension is written in TypeScript and offers several modules to help automate tasks and improve store performance.
 
 ## Modules
 - **analytics** – analyze store metrics
