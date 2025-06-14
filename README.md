@@ -1,1 +1,3 @@
-# aiviosell-dev
+# AivioSell Chrome Extension
+
+AI-powered tools for Shopee sellers.
